@@ -1,6 +1,6 @@
-# print("chai aur python")
+print("chai aur python")
 
 def chai(n):
     print(n)
 
-# chai("hello world")
+chai("hello world")
